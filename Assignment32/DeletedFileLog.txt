@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\AIML\Assignment32\DestinationFolder\D.txt
+C:\Users\Administrator\Desktop\AIML\Assignment32\DestinationFolder\E.txt
+C:\Users\Administrator\Desktop\AIML\Assignment32\DestinationFolder\F.txt
