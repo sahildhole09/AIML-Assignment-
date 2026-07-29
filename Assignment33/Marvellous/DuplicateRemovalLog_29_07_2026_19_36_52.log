@@ -1,0 +1,26 @@
+======================================================================
+        MARVELLOUS DUPLICATE FILE REMOVAL LOG
+======================================================================
+
+Starting Time           : 2026-07-29 19:36:52.113005
+Completion Time         : 2026-07-29 19:36:52.121321
+Scanned Directory       : C:\Users\Administrator\Desktop\Exam
+
+Total Files Scanned     : 4
+Duplicate Files Found   : 2
+Duplicate Files Deleted : 2
+Email Status            : Success
+
+======================================================================
+Deleted Files
+======================================================================
+
+1) C:\Users\Administrator\Desktop\Exam\darknet.jpg
+Checksum : a3d82d5a5f0ef4b8b6d6eeeccbc1de5c
+
+2) C:\Users\Administrator\Desktop\Exam\test.txt
+Checksum : a025afe81ae83baae197061b25939090
+
+======================================================================
+Log Generated Successfully
+======================================================================
