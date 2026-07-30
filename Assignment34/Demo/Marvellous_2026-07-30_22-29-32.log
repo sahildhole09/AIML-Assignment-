@@ -1,0 +1,1575 @@
+----------------------------------------------------------------------
+* Platform Surveillance System *
+Log Created At : 2026-07-30_22-29-32
+----------------------------------------------------------------------
+
+* CPU INFORMATION *
+----------------------------------------------------------------------
+Physical Cores : 2
+Logical Cores : 4
+CPU Usage : 40.00 %
+----------------------------------------------------------------------
+
+* RAM INFORMATION *
+----------------------------------------------------------------------
+Total RAM : 7.89 GB
+Available RAM : 2.95 GB
+Used RAM : 4.95 GB
+RAM Usage : 62.70 %
+----------------------------------------------------------------------
+
+* DISK INFORMATION *
+----------------------------------------------------------------------
+Total Disk : 110.89 GB
+Used Disk : 90.53 GB
+Free Disk : 20.36 GB
+Disk Usage : 81.60 %
+----------------------------------------------------------------------
+
+* NETWORK INFORMATION *
+----------------------------------------------------------------------
+Bytes Sent : 3.69 MB
+Bytes Received : 30.47 MB
+----------------------------------------------------------------------
+
+* RUNNING PROCESS INFORMATION *
+----------------------------------------------------------------------
+PID : 0
+Process Name : System Idle Process
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 01-01-1970 05:30:00
+CPU Usage : 0.00 %
+Memory Usage : 0.00 %
+----------------------------------------------------------------------
+PID : 4
+Process Name : System
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:32
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 100
+Process Name : Registry
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:26
+CPU Usage : 0.00 %
+Memory Usage : 0.47 %
+----------------------------------------------------------------------
+PID : 256
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:39
+CPU Usage : 0.00 %
+Memory Usage : 0.50 %
+----------------------------------------------------------------------
+PID : 468
+Process Name : smss.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:32
+CPU Usage : 0.00 %
+Memory Usage : 0.01 %
+----------------------------------------------------------------------
+PID : 568
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:57
+CPU Usage : 0.00 %
+Memory Usage : 0.24 %
+----------------------------------------------------------------------
+PID : 692
+Process Name : csrss.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:56
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 768
+Process Name : svchost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:35
+CPU Usage : 0.00 %
+Memory Usage : 0.26 %
+----------------------------------------------------------------------
+PID : 780
+Process Name : wininit.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:56
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 808
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:27
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 852
+Process Name : services.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:56
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 860
+Process Name : lsass.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:56
+CPU Usage : 0.00 %
+Memory Usage : 0.31 %
+----------------------------------------------------------------------
+PID : 984
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:57
+CPU Usage : 0.00 %
+Memory Usage : 0.51 %
+----------------------------------------------------------------------
+PID : 1016
+Process Name : fontdrvhost.exe
+User Name : Font Driver Host\UMFD-0
+Status : running
+Start Time : 25-07-2026 23:38:57
+CPU Usage : 0.00 %
+Memory Usage : 0.04 %
+----------------------------------------------------------------------
+PID : 1052
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:57
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 1164
+Process Name : conhost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 17:29:20
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 1180
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:57
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 1212
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.17 %
+----------------------------------------------------------------------
+PID : 1292
+Process Name : IntelCpHDCPSvc.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 1328
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 1388
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:04
+CPU Usage : 0.00 %
+Memory Usage : 0.35 %
+----------------------------------------------------------------------
+PID : 1516
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:41:26
+CPU Usage : 0.00 %
+Memory Usage : 0.22 %
+----------------------------------------------------------------------
+PID : 1536
+Process Name : IntelCpHeciSvc.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 1568
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.19 %
+----------------------------------------------------------------------
+PID : 1592
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.20 %
+----------------------------------------------------------------------
+PID : 1628
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 1652
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.22 %
+----------------------------------------------------------------------
+PID : 1712
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:17
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 1752
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 1916
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 1932
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.17 %
+----------------------------------------------------------------------
+PID : 1956
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 1976
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 2020
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 2076
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 2088
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 2116
+Process Name : MemCompression
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 2.77 %
+----------------------------------------------------------------------
+PID : 2176
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.27 %
+----------------------------------------------------------------------
+PID : 2216
+Process Name : igfxCUIService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.10 %
+----------------------------------------------------------------------
+PID : 2292
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 2300
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:58
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 2328
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:59
+CPU Usage : 0.00 %
+Memory Usage : 0.15 %
+----------------------------------------------------------------------
+PID : 2432
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:59
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 2468
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:59
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 2584
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:38:59
+CPU Usage : 0.00 %
+Memory Usage : 0.19 %
+----------------------------------------------------------------------
+PID : 2688
+Process Name : RtkAudioService64.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:38:59
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 2792
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:00
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 2800
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:00
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 2808
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:00
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 2980
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.24 %
+----------------------------------------------------------------------
+PID : 3068
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:01
+CPU Usage : 0.00 %
+Memory Usage : 0.25 %
+----------------------------------------------------------------------
+PID : 3152
+Process Name : spoolsv.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.16 %
+----------------------------------------------------------------------
+PID : 3196
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.23 %
+----------------------------------------------------------------------
+PID : 3228
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 3400
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.51 %
+----------------------------------------------------------------------
+PID : 3408
+Process Name : APCONSVC.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.32 %
+----------------------------------------------------------------------
+PID : 3424
+Process Name : GoogleInputService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 3456
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.19 %
+----------------------------------------------------------------------
+PID : 3488
+Process Name : OneApp.IGCC.WinService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.32 %
+----------------------------------------------------------------------
+PID : 3556
+Process Name : conhost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:22
+CPU Usage : 0.00 %
+Memory Usage : 0.10 %
+----------------------------------------------------------------------
+PID : 3560
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:17
+CPU Usage : 0.00 %
+Memory Usage : 0.23 %
+----------------------------------------------------------------------
+PID : 3564
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:02
+CPU Usage : 0.00 %
+Memory Usage : 0.30 %
+----------------------------------------------------------------------
+PID : 3664
+Process Name : SafeExamBrowser.Service.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.30 %
+----------------------------------------------------------------------
+PID : 3672
+Process Name : NPBKPSRV.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 3696
+Process Name : NPProt.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.04 %
+----------------------------------------------------------------------
+PID : 3712
+Process Name : MpDefenderCoreService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.22 %
+----------------------------------------------------------------------
+PID : 3732
+Process Name : LMS.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 3740
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 3776
+Process Name : OSPPSVC.EXE
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.15 %
+----------------------------------------------------------------------
+PID : 3784
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 3812
+Process Name : Service_KMS.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.33 %
+----------------------------------------------------------------------
+PID : 3824
+Process Name : RtkBtManServ.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 3836
+Process Name : NP2022AB.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 3852
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 3880
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.10 %
+----------------------------------------------------------------------
+PID : 3904
+Process Name : SynTPEnhService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 3912
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 3956
+Process Name : MsMpEng.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 1.67 %
+----------------------------------------------------------------------
+PID : 3972
+Process Name : explorer.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:33
+CPU Usage : 0.00 %
+Memory Usage : 2.61 %
+----------------------------------------------------------------------
+PID : 4060
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.28 %
+----------------------------------------------------------------------
+PID : 4132
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:04
+CPU Usage : 0.00 %
+Memory Usage : 0.19 %
+----------------------------------------------------------------------
+PID : 4176
+Process Name : XtuService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.46 %
+----------------------------------------------------------------------
+PID : 4240
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:41:17
+CPU Usage : 0.00 %
+Memory Usage : 0.25 %
+----------------------------------------------------------------------
+PID : 4404
+Process Name : jhi_service.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 4860
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:03
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 4968
+Process Name : NisSrv.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:46:10
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 5320
+Process Name : SearchIndexer.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:07
+CPU Usage : 0.00 %
+Memory Usage : 0.44 %
+----------------------------------------------------------------------
+PID : 5464
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:31
+CPU Usage : 0.00 %
+Memory Usage : 7.58 %
+----------------------------------------------------------------------
+PID : 5492
+Process Name : NPHOST.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 27-07-2026 01:26:18
+CPU Usage : 0.00 %
+Memory Usage : 0.27 %
+----------------------------------------------------------------------
+PID : 5616
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:09
+CPU Usage : 0.00 %
+Memory Usage : 1.49 %
+----------------------------------------------------------------------
+PID : 5664
+Process Name : UserOOBEBroker.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:23
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 5796
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:47
+CPU Usage : 0.00 %
+Memory Usage : 0.24 %
+----------------------------------------------------------------------
+PID : 5896
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:10
+CPU Usage : 0.00 %
+Memory Usage : 0.10 %
+----------------------------------------------------------------------
+PID : 5920
+Process Name : dllhost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:10
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 6040
+Process Name : conhost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:24
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 6340
+Process Name : pet.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:22
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 6440
+Process Name : WmiPrvSE.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:26
+CPU Usage : 0.00 %
+Memory Usage : 0.56 %
+----------------------------------------------------------------------
+PID : 6500
+Process Name : EMON.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:22
+CPU Usage : 0.00 %
+Memory Usage : 0.20 %
+----------------------------------------------------------------------
+PID : 6620
+Process Name : AggregatorHost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:23
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 6716
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:29:27
+CPU Usage : 0.00 %
+Memory Usage : 0.95 %
+----------------------------------------------------------------------
+PID : 6740
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:45
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 6804
+Process Name : EMAILSCN.EXE
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:33
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 6840
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 26-07-2026 19:41:55
+CPU Usage : 0.00 %
+Memory Usage : 0.15 %
+----------------------------------------------------------------------
+PID : 6908
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 25-07-2026 23:39:23
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 8008
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:54
+CPU Usage : 0.00 %
+Memory Usage : 0.20 %
+----------------------------------------------------------------------
+PID : 8052
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:39
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 8064
+Process Name : ZVCMD64.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:51
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 8076
+Process Name : conhost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:39:51
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 8120
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:02
+CPU Usage : 0.00 %
+Memory Usage : 1.34 %
+----------------------------------------------------------------------
+PID : 8248
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:00:48
+CPU Usage : 0.00 %
+Memory Usage : 0.27 %
+----------------------------------------------------------------------
+PID : 8356
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:36
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 8528
+Process Name : StartMenuExperienceHost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:37
+CPU Usage : 0.00 %
+Memory Usage : 0.96 %
+----------------------------------------------------------------------
+PID : 8564
+Process Name : SystemSettings.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:50:23
+CPU Usage : 0.00 %
+Memory Usage : 0.02 %
+----------------------------------------------------------------------
+PID : 8604
+Process Name : WhatsApp.Root.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:56
+CPU Usage : 0.00 %
+Memory Usage : 3.76 %
+----------------------------------------------------------------------
+PID : 9052
+Process Name : SecurityHealthService.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:35
+CPU Usage : 0.00 %
+Memory Usage : 0.23 %
+----------------------------------------------------------------------
+PID : 9248
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:00
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 9284
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:04
+CPU Usage : 0.00 %
+Memory Usage : 0.10 %
+----------------------------------------------------------------------
+PID : 9376
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 25-07-2026 23:41:49
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 9500
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:37
+CPU Usage : 0.00 %
+Memory Usage : 0.36 %
+----------------------------------------------------------------------
+PID : 9648
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:41
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 9760
+Process Name : svchost.exe
+User Name : NT AUTHORITY\NETWORK SERVICE
+Status : running
+Start Time : 30-07-2026 19:22:19
+CPU Usage : 0.00 %
+Memory Usage : 0.22 %
+----------------------------------------------------------------------
+PID : 9936
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 26-07-2026 02:27:43
+CPU Usage : 0.00 %
+Memory Usage : 0.24 %
+----------------------------------------------------------------------
+PID : 10052
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:44
+CPU Usage : 0.00 %
+Memory Usage : 0.29 %
+----------------------------------------------------------------------
+PID : 10388
+Process Name : RtkNGUI64.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:51
+CPU Usage : 0.00 %
+Memory Usage : 0.18 %
+----------------------------------------------------------------------
+PID : 10880
+Process Name : igfxEM.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:32
+CPU Usage : 0.00 %
+Memory Usage : 0.17 %
+----------------------------------------------------------------------
+PID : 10932
+Process Name : CompPkgSrv.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:00:49
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 11092
+Process Name : MoUsoCoreWorker.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 25-07-2026 23:41:49
+CPU Usage : 0.00 %
+Memory Usage : 0.31 %
+----------------------------------------------------------------------
+PID : 11132
+Process Name : GoogleInputHandler.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:31
+CPU Usage : 0.00 %
+Memory Usage : 0.18 %
+----------------------------------------------------------------------
+PID : 11652
+Process Name : fontdrvhost.exe
+User Name : Font Driver Host\UMFD-14
+Status : running
+Start Time : 30-07-2026 20:03:17
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 11924
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:54
+CPU Usage : 0.00 %
+Memory Usage : 0.54 %
+----------------------------------------------------------------------
+PID : 12400
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:54:54
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 12512
+Process Name : taskhostw.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:32
+CPU Usage : 0.00 %
+Memory Usage : 0.22 %
+----------------------------------------------------------------------
+PID : 12564
+Process Name : svchost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:38
+CPU Usage : 0.00 %
+Memory Usage : 0.42 %
+----------------------------------------------------------------------
+PID : 12568
+Process Name : winlogon.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 20:03:17
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 12924
+Process Name : ApplicationFrameHost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:23
+CPU Usage : 0.00 %
+Memory Usage : 0.31 %
+----------------------------------------------------------------------
+PID : 12968
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 26-07-2026 02:06:04
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 13332
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:54:16
+CPU Usage : 0.00 %
+Memory Usage : 6.35 %
+----------------------------------------------------------------------
+PID : 13744
+Process Name : RAVBg64.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 21:49:31
+CPU Usage : 0.00 %
+Memory Usage : 0.18 %
+----------------------------------------------------------------------
+PID : 13916
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 22:23:59
+CPU Usage : 0.00 %
+Memory Usage : 0.18 %
+----------------------------------------------------------------------
+PID : 13968
+Process Name : NP2120CL.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 27-07-2026 01:27:12
+CPU Usage : 0.00 %
+Memory Usage : 0.25 %
+----------------------------------------------------------------------
+PID : 14024
+Process Name : python.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:29:32
+CPU Usage : 0.00 %
+Memory Usage : 0.27 %
+----------------------------------------------------------------------
+PID : 14288
+Process Name : AnyDesk.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 26-07-2026 19:27:28
+CPU Usage : 0.00 %
+Memory Usage : 0.19 %
+----------------------------------------------------------------------
+PID : 14380
+Process Name : SynTPHelper.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:31
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 14408
+Process Name : ZVMonNt.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 27-07-2026 00:23:28
+CPU Usage : 0.00 %
+Memory Usage : 0.67 %
+----------------------------------------------------------------------
+PID : 14584
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 26-07-2026 04:13:46
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 14660
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:09
+CPU Usage : 0.00 %
+Memory Usage : 0.35 %
+----------------------------------------------------------------------
+PID : 14772
+Process Name : SearchApp.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:53
+CPU Usage : 0.00 %
+Memory Usage : 0.81 %
+----------------------------------------------------------------------
+PID : 15268
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:02
+CPU Usage : 0.00 %
+Memory Usage : 0.12 %
+----------------------------------------------------------------------
+PID : 15316
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 21:54:05
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 15480
+Process Name : powershell.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:25
+CPU Usage : 0.00 %
+Memory Usage : 0.80 %
+----------------------------------------------------------------------
+PID : 15608
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 22:23:57
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 15708
+Process Name : NPAVIDS.EXE
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 17:29:20
+CPU Usage : 0.00 %
+Memory Usage : 0.22 %
+----------------------------------------------------------------------
+PID : 16564
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 19:32:42
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 16652
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:54
+CPU Usage : 0.00 %
+Memory Usage : 0.72 %
+----------------------------------------------------------------------
+PID : 16696
+Process Name : SynTPEnh.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:31
+CPU Usage : 0.00 %
+Memory Usage : 0.26 %
+----------------------------------------------------------------------
+PID : 16744
+Process Name : SecurityHealthSystray.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:50
+CPU Usage : 0.00 %
+Memory Usage : 0.11 %
+----------------------------------------------------------------------
+PID : 16808
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 19:32:42
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 17048
+Process Name : conhost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 27-07-2026 01:27:12
+CPU Usage : 0.00 %
+Memory Usage : 0.07 %
+----------------------------------------------------------------------
+PID : 17052
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:09
+CPU Usage : 0.00 %
+Memory Usage : 0.53 %
+----------------------------------------------------------------------
+PID : 17984
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:10
+CPU Usage : 0.00 %
+Memory Usage : 3.30 %
+----------------------------------------------------------------------
+PID : 18056
+Process Name : sihost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:32
+CPU Usage : 0.00 %
+Memory Usage : 0.32 %
+----------------------------------------------------------------------
+PID : 18316
+Process Name : taskhostw.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:54:13
+CPU Usage : 0.00 %
+Memory Usage : 0.16 %
+----------------------------------------------------------------------
+PID : 18672
+Process Name : audiodg.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 22:23:59
+CPU Usage : 0.00 %
+Memory Usage : 0.25 %
+----------------------------------------------------------------------
+PID : 18816
+Process Name : csrss.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 20:03:17
+CPU Usage : 0.00 %
+Memory Usage : 0.08 %
+----------------------------------------------------------------------
+PID : 18960
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 16:34:52
+CPU Usage : 0.00 %
+Memory Usage : 0.10 %
+----------------------------------------------------------------------
+PID : 19372
+Process Name : ShellExperienceHost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:01
+CPU Usage : 0.00 %
+Memory Usage : 0.67 %
+----------------------------------------------------------------------
+PID : 19468
+Process Name : ZVMOUNT.EXE
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:54
+CPU Usage : 0.00 %
+Memory Usage : 0.15 %
+----------------------------------------------------------------------
+PID : 19488
+Process Name : ctfmon.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:33
+CPU Usage : 0.00 %
+Memory Usage : 0.25 %
+----------------------------------------------------------------------
+PID : 19912
+Process Name : svchost.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 19:32:42
+CPU Usage : 0.00 %
+Memory Usage : 0.37 %
+----------------------------------------------------------------------
+PID : 20008
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 22:21:04
+CPU Usage : 0.00 %
+Memory Usage : 0.09 %
+----------------------------------------------------------------------
+PID : 20012
+Process Name : AnyDesk.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:02
+CPU Usage : 0.00 %
+Memory Usage : 0.20 %
+----------------------------------------------------------------------
+PID : 20092
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:54:02
+CPU Usage : 0.00 %
+Memory Usage : 0.19 %
+----------------------------------------------------------------------
+PID : 20112
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:12
+CPU Usage : 0.00 %
+Memory Usage : 2.44 %
+----------------------------------------------------------------------
+PID : 20408
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 18:58:33
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 20472
+Process Name : svchost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:32
+CPU Usage : 0.00 %
+Memory Usage : 0.40 %
+----------------------------------------------------------------------
+PID : 20668
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:54
+CPU Usage : 0.00 %
+Memory Usage : 0.38 %
+----------------------------------------------------------------------
+PID : 20796
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:50:04
+CPU Usage : 0.00 %
+Memory Usage : 1.75 %
+----------------------------------------------------------------------
+PID : 20840
+Process Name : SearchApp.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:49:38
+CPU Usage : 0.00 %
+Memory Usage : 1.31 %
+----------------------------------------------------------------------
+PID : 21240
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:12
+CPU Usage : 0.00 %
+Memory Usage : 1.26 %
+----------------------------------------------------------------------
+PID : 21356
+Process Name : OneDrive.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:52
+CPU Usage : 0.00 %
+Memory Usage : 0.81 %
+----------------------------------------------------------------------
+PID : 21408
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:23
+CPU Usage : 0.00 %
+Memory Usage : 1.43 %
+----------------------------------------------------------------------
+PID : 21688
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:12
+CPU Usage : 0.00 %
+Memory Usage : 1.10 %
+----------------------------------------------------------------------
+PID : 21780
+Process Name : dwm.exe
+User Name : Window Manager\DWM-14
+Status : running
+Start Time : 30-07-2026 20:03:17
+CPU Usage : 0.00 %
+Memory Usage : 0.83 %
+----------------------------------------------------------------------
+PID : 22068
+Process Name : WmiPrvSE.exe
+User Name : NT AUTHORITY\LOCAL SERVICE
+Status : running
+Start Time : 30-07-2026 19:33:07
+CPU Usage : 0.00 %
+Memory Usage : 0.13 %
+----------------------------------------------------------------------
+PID : 22168
+Process Name : Code.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:02
+CPU Usage : 0.00 %
+Memory Usage : 1.51 %
+----------------------------------------------------------------------
+PID : 22344
+Process Name : dllhost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:15:22
+CPU Usage : 0.00 %
+Memory Usage : 0.16 %
+----------------------------------------------------------------------
+PID : 23060
+Process Name : cmd.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:15:25
+CPU Usage : 0.00 %
+Memory Usage : 0.06 %
+----------------------------------------------------------------------
+PID : 23152
+Process Name : svchost.exe
+User Name : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 30-07-2026 22:22:28
+CPU Usage : 0.00 %
+Memory Usage : 0.14 %
+----------------------------------------------------------------------
+PID : 23308
+Process Name : TextInputHost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:51:19
+CPU Usage : 0.00 %
+Memory Usage : 0.56 %
+----------------------------------------------------------------------
+PID : 23388
+Process Name : svchost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 21:49:32
+CPU Usage : 0.00 %
+Memory Usage : 0.25 %
+----------------------------------------------------------------------
+PID : 23396
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : stopped
+Start Time : 30-07-2026 21:54:54
+CPU Usage : 0.00 %
+Memory Usage : 0.97 %
+----------------------------------------------------------------------
+PID : 23528
+Process Name : conhost.exe
+User Name : DESKTOP-FIK5SPH\Administrator
+Status : running
+Start Time : 30-07-2026 22:15:25
+CPU Usage : 0.00 %
+Memory Usage : 0.24 %
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+End Of Log File
+----------------------------------------------------------------------
