@@ -4,8 +4,8 @@ from email.message import EmailMessage
 
 def SendMail(FileName, ReceiverMail):
     try:
-        SenderMail = "your@gmail.com"
-        AppPassword = "your app password"
+        SenderMail = "sahildhole101@gmail.com"
+        AppPassword = "wlvt ihop qqtm hsdm"
 
         msg = EmailMessage()
 
